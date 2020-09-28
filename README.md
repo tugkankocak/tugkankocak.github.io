@@ -2,7 +2,7 @@
 
 ***My resume***
 
-[Tugkan's resume]
+[Tugkan's resume](https://github.com/tugkankocak/cv)
 
 ***My public repositories can be found at***
 
